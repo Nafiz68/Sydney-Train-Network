@@ -118,7 +118,6 @@ This project demonstrates understanding of:
 - Routing protocol configuration and operation
 - VLAN configuration and inter-VLAN routing
 - Network security implementation
-- Quality of Service (QoS) configuration
 - Network troubleshooting methodologies
 - Documentation and project presentation skills
 
@@ -129,9 +128,6 @@ This project demonstrates understanding of:
 - ✅ VLAN segmentation for different services
 - ✅ DHCP for dynamic IP address assignment
 - ✅ DNS for name resolution services
-- ✅ ACLs for security policy enforcement
-- ✅ Redundant paths for fault tolerance
-- ✅ QoS for prioritizing critical traffic
 - ✅ Comprehensive device labeling and documentation
 
 ## Testing and Validation
@@ -143,11 +139,6 @@ The network has been tested for:
 - **Performance**: Adequate bandwidth and low latency for critical services
 - **Scalability**: Design supports addition of new stations and services
 
-## Project Team
-- **Group 201**
-- **Course**: CSE421 - Computer Networks
-- **Institution**: [Your University Name]
-- **Semester**: [Semester/Year]
 
 ## Deliverables
 1. Cisco Packet Tracer file with complete network implementation
@@ -202,29 +193,10 @@ Potential improvements and extensions to this project:
 - Cisco Networking Academy course materials
 - Online networking communities and forums
 
-## License and Usage
-This project is created for educational purposes as part of the CSE421 course. 
-- **Academic Use**: Freely available for learning and reference
-- **Commercial Use**: Not permitted without authorization
-- **Modification**: Encouraged for learning purposes with proper attribution
 
-## Notes
-- **Backup**: Always save your work with incremental filenames (e.g., project_v1, project_v2) to preserve different versions
-- **Performance**: Large simulations may require significant system resources; close unnecessary applications
-- **Compatibility**: Ensure you're using a compatible version of Packet Tracer to avoid issues
-- **Documentation**: Refer to the included PDF files for detailed specifications and requirements
-- **Support**: Contact your course instructor or teaching assistants for project-specific questions
 
-## Acknowledgments
-We would like to thank:
-- Our course instructor for guidance and support
-- Teaching assistants for technical assistance
-- Cisco Networking Academy for providing Packet Tracer
-- Sydney Trains for inspiration and reference materials
-- Fellow students for collaboration and feedback
 
----
 
-**Last Updated**: January 2026  
-**Version**: 1.0  
-**Status**: Completed
+
+
+
